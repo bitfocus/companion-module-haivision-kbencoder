@@ -12,7 +12,7 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"@companion-module/base": "~1.0.2",
+		"@companion-module/base": "~1.4.3",
 		"got": "^12.5.3",
 		"request": "^2.88.2",
 		"tough-cookie": "^4.1.3"
